@@ -14,7 +14,7 @@
   ],
   "tokens": [
     {
-      "name": "private digital Swiss Franc on xDai",
+      "name": "dCHF on xDai",
       "address": "0x0E0293b766e89011ABd9bea5612D978C3A13CbB8",
       "symbol": "dCHF",
       "decimals": 2,
