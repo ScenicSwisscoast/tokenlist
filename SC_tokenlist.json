@@ -31,8 +31,8 @@
       ]
     },
         {
-      "chainId": 100,
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "chainId": 1,
+      "address": "0xf412af62269A0B3B10eA727dF81231CDc5bB6364",
       "symbol": "DCHF",
       "name": "private digital Swiss Franc",
       "decimals": 2,
