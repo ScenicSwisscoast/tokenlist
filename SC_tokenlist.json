@@ -41,6 +41,17 @@
         "stablecoin"
       ]
     },
+            {
+      "chainId": 100,
+      "address": "0x0E0293b766e89011ABd9bea5612D978C3A13CbB8",
+      "symbol": "DCHF",
+      "name": "private digital Swiss Franc",
+      "decimals": 2,
+      "logoURI": "ipfs://QmeBadPgocrSqmo6eDYW4sowBpBjqyKpHTh8zZNvDvfhyi",
+      "tags": [
+        "stablecoin"
+      ]
+    },
     {
       "chainId": 1,
       "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
